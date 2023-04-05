@@ -1,0 +1,109 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(Winter.jpeg);
+    background-size: cover;
+    text-align: center;
+}
+
+.one
+{
+    width: 400px;
+    box-shadow: 10px 20px 20px 20px #c7d8e4;
+    background: #FFF;
+    padding: 20px;
+    margin: 5% auto;
+    text-align: center;   
+    border-radius: 40px; 
+    
+}
+img
+{
+    border-radius: 70px;
+    padding: 10px
+}
+.sign-up-form h1
+{
+color: #7fafe2;
+margin-bottom: 30px;
+}
+
+.input-box
+{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: center;
+    width: 85%;
+    border: 1px solid #444742;
+    outline: none;
+}
+button
+{
+    color: #fff;
+    width: 55%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 20px 0;
+    border: none;
+    outline: 5px;
+    cursor: pointer;
+}
+.sign-btn
+{
+    background-color: #2cbed1;
+}
+.twitter-btn
+{
+    background-color: #8a538b;
+}
+a
+{
+    text-decoration: none;
+}
+hr
+{
+    margin-top: 20px;
+    width: 80%;
+}
+.or 
+{
+    
+    width: 55%;
+    margin: 25px auto 10px;
+    text-align: center;
+
+}
+img
+{
+    
+    width: 100px;
+    margin-top: 10px;
+}
+.two
+{
+    border-radius: 10px;
+    width: 55%;
+    padding: 1%;
+    text-align: center;
+}
+.three
+{
+    border-radius: 10px;
+    width: 55%;
+    padding: 1%;
+    text-align: center;
+    
+
+}
+.four
+{
+    border-radius: 10px;
+    width: 55%;
+    padding: 1%;
+    text-align: center;
+
+}
